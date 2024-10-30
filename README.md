@@ -1,1 +1,1 @@
-Just a normal calaculculator created for fun using html and css
+Just a normal calculator created for fun using html, css and Javascript for fun.
